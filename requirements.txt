@@ -1,2 +1,13 @@
-Flask>=2.0
-requests>=2.0
+google-adk
+a2a-sdk
+fastmcp
+mcp
+langgraph
+langchain-core
+langchain-google-genai
+google-generativeai
+httpx
+uvicorn
+nest-asyncio
+python-dotenv
+
